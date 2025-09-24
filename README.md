@@ -1,4 +1,10 @@
--@MRGHOST2007
+<h1>Amir Mahdi Heidary</h1>
+<br>
+<h2>
 -Android Dev
-
-Telegram : https://t.me/mrghost2007
+</h2>
+<h2>
+  <a href="https://t.me/mrghost2007">
+    Telegram📫
+  </a>
+</h2>
