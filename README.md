@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about building practical Android apps, expl
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, Kotlin, Python, C++, JavaScript
+- **Languages:** Java, Kotlin, JavaScript
 - **Mobile Development:** Android SDK, XML, Firebase
 - **Tools:** Git & GitHub, Android Studio, VS Code
 - **Other Interests:** Game development, algorithmic problem-solving, creative AI interactions
