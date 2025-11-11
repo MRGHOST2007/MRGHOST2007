@@ -22,6 +22,7 @@ Welcome to my GitHub! I'm passionate about building practical Android apps, expl
 | `MRG-To-Do`            | Task manager with clean UI and basic CRUD          | Java, Android     |
 | `MRGChatApplication`   | Simple messaging app for real-time communication   | Java, Android     |
 | `MRGVideoPlayer`       | Custom video player with media controls            | Java, Android     |
+| `FamousPlaces`         | App to test Compose Navigation                     | Java, Android     |
 | `QuadraticEquation`    | Solves quadratic equations with user input         | Java              |
 | `Timer & To-Do`        | Web-based timer and task list                      | JavaScript        |
 
